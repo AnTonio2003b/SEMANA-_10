@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+.p1 {
+    background-color: #af770e;
+    text-align: justify;
+    color: white;
+    margin: 20px;
+}
+
+.p2 {
+    background-color: blue;
+    text-align: justify;
+    color: white;
+    margin-top: 95px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+
+.p3 {
+    background-color: black;
+    text-align: justify;
+    color: white;
+/* margin: top right botton left */
+    /* margin:20px 15px 10px 8px */
+/* margin: top left/ringht botton */
+    /* margin: 30px 15px 25px; */
+/* padding: top/botton inft/ringht */
+    margin: 30px 45px;
+}
+
